@@ -1,7 +1,7 @@
 name: iso
 favicon: null
-layout_spectrum: 0.5356018892489374
-typography_spectrum: 0.18889583926647902
+layout_spectrum: 0.5403
+typography_spectrum: 0.28717
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7098087570630014
-  lightness: 0.3806373334955424
-  saturation: 0.458919872995466
-  rhythmicContrast: 0.7335017626173794
+    - '#ffffff'
+    - '#29847d'
+    - '#000800'
+    - '#bd1302'
+    - '#4ed6fe'
+  brandStrength: 0.8125
+  lightness: 0.25
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
